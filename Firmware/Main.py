@@ -1,7 +1,7 @@
 import time
 import threading
 from flask import Flask, render_template, request, jsonify
-from gpiozero import Robot, DistanceSensor, Servo
+from gpiozero import Robot, DistanceSensor
 from luma.oled.device import ssd1306
 from luma.core.interface.serial import i2c
 from luma.core.render import canvas
@@ -11,7 +11,6 @@ from PIL import ImageFont
 # TB6612FNG Motors: Left(PWM, Dir1, Dir2), Right(PWM, Dir1, Dir2)
 robot = Robot(left=(12, 17, 27), right=(13, 22, 23))
 ultrasonic = DistanceSensor(echo=21, trigger=20)
-sensor_servo = Servo(18)
 
 # OLED Setup
 serial = i2c(port=1, address=0x3C)
