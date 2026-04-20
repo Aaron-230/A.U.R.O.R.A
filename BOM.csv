@@ -1,0 +1,13 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"Zebronics Zeb-Pluto 2.0 Multimedia Speaker with Aux Connectivity,USB Powered and Volume Control","Speakers for the Raspberry Pi",1,3.00,"https://www.amazon.in/gp/product/B07ZZCBQZD/ref=ox_sc_act_title_2?smid=AJ6SIZC8YQDZX&psc=1","Amazon"
+"Scalebee USB 2.0 Microphone MIC Audio Adapter for PC, Laptop Studio Speech Voice Recognition Mic Audio Adapter Computer Microphones Voice Tube Microphone","Microphone",1,4.07,"https://www.amazon.in/gp/product/B0BVB2FG32/ref=ox_sc_act_title_1?smid=A39WDVOZOFKJZW&psc=1","Amazon"
+"SanDisk MicroSD Card Class 10","Storage for the Raspberry Pi",1,11.83,"https://www.thingbits.in/products/sandisk-microsd-card-class-10-with-noobs/1980","Thingbits"
+"Official Raspberry Pi 5 Active Cooler","To Cool the Raspberry Pi",1,4.84,"https://www.thingbits.in/products/official-active-cooler-for-raspberry-pi-5","Thingbits"
+"SAMSUNG INR18650-30Q 3000mAh (5c) LI-ION BATTERY","Battery for the Motor Assembly",2,6.21,"https://robu.in/product/samsung-18650-30q-li-ion-battery","Robu"
+"Raspberry Pi Camera Module 3","Visual Navigation for the Raspberry Pi",1,33.31,"https://robocraze.com/products/raspberry-pi-camera-module-3","Robocraze"
+"18650 Dual Battery Holder with Cover and On/Off Switch","18650 Battery Holder",1,0.53,"https://robocraze.com/products/18650-dual-battery-holder-with-cover-and-on-off-switch","Robocraze"
+"TB6612FNG Dual DC Motor Driver","Motor Driver",1,1.53,"https://robocraze.com/products/tb6612fng-dual-dc-motor-driver?_pos=1&_psq=TB66&_ss=e&_v=1.0","Robocraze"
+"4WD Four Wheel Drive Kit","Chassis and Motors",1,6.10,"https://robocraze.com/products/4wd-four-wheel-drive-kit-a-smart-robot-car-with-chassis","Robocraze"
+"HC-SR04 Ultrasonic Distance Sensor Module","Ultrasonic Navigation",1,0.82,"https://robocraze.com/products/hc-sr-04-ultrasonic-sensor","Robocraze"
+"Anker Nano Power Bank","Power Supply and Batteries for Raspberry Pi",1,23.90,"https://www.ankersindiastore.com/p/black-anker-nano-power-bank-30w-built-in-usb-c-cable/","Anker"
+"Raspberry Pi 5","Main SBC and AI Computer",1,178.72,"https://www.thingbits.in/products/raspberry-pi-5-computer/489?taxon_id=5","Thingbits"
